@@ -14,8 +14,9 @@ repo: https://github.com/username/username.github.io
 author:
   name: Yeji Park
   email: itsyejii@gmail.com
-  photo: profilePic.jpg
+  #photo: profilePic.jpg
 #photo: /assets/photo.jpg
+photo: profilePic.jpg
 
 # build settings
 
